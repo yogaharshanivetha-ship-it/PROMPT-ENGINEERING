@@ -59,5 +59,13 @@ Step 7: Finalize and Export
 
 # Output
 
+[exp 1 ques 1.pdf](https://github.com/user-attachments/files/22954822/exp.1.ques.1.pdf)
+[exp 1 ques 2.pdf](https://github.com/user-attachments/files/22954855/exp.1.ques.2.pdf)
+[exp 1 ques 3.pdf](https://github.com/user-attachments/files/22954890/exp.1.ques.3.pdf)
+[exp 1 ques 4.pdf](https://github.com/user-attachments/files/22954912/exp.1.ques.4.pdf)
+[exp 1 ques 5.pdf](https://github.com/user-attachments/files/22954947/exp.1.ques.5.pdf)
+
+
 
 # Result
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) is successfully completed by receiving correct output.
